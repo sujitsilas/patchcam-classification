@@ -1,0 +1,22 @@
+Using device: cuda
+Epoch [1/20] - Average Training Loss: 0.1152 - Training Accuracy: 95.86% - Validation Accuracy: 86.97%
+Epoch [2/20] - Average Training Loss: 0.0564 - Training Accuracy: 98.07% - Validation Accuracy: 88.55%
+Epoch [3/20] - Average Training Loss: 0.0354 - Training Accuracy: 98.78% - Validation Accuracy: 87.73%
+Epoch [4/20] - Average Training Loss: 0.0252 - Training Accuracy: 99.12% - Validation Accuracy: 86.45%
+Epoch [5/20] - Average Training Loss: 0.0192 - Training Accuracy: 99.33% - Validation Accuracy: 83.91%
+Epoch [6/20] - Average Training Loss: 0.0169 - Training Accuracy: 99.41% - Validation Accuracy: 85.27%
+Epoch [7/20] - Average Training Loss: 0.0143 - Training Accuracy: 99.50% - Validation Accuracy: 89.14%
+Epoch [8/20] - Average Training Loss: 0.0132 - Training Accuracy: 99.54% - Validation Accuracy: 87.17%
+Epoch [9/20] - Average Training Loss: 0.0119 - Training Accuracy: 99.59% - Validation Accuracy: 85.77%
+Epoch [10/20] - Average Training Loss: 0.0108 - Training Accuracy: 99.62% - Validation Accuracy: 85.45%
+Epoch [11/20] - Average Training Loss: 0.0097 - Training Accuracy: 99.68% - Validation Accuracy: 86.28%
+Epoch [12/20] - Average Training Loss: 0.0093 - Training Accuracy: 99.67% - Validation Accuracy: 87.12%
+Epoch [13/20] - Average Training Loss: 0.0085 - Training Accuracy: 99.71% - Validation Accuracy: 86.37%
+Epoch [14/20] - Average Training Loss: 0.0081 - Training Accuracy: 99.72% - Validation Accuracy: 87.62%
+Epoch [15/20] - Average Training Loss: 0.0078 - Training Accuracy: 99.73% - Validation Accuracy: 87.57%
+Epoch [16/20] - Average Training Loss: 0.0075 - Training Accuracy: 99.74% - Validation Accuracy: 86.67%
+Epoch [17/20] - Average Training Loss: 0.0069 - Training Accuracy: 99.77% - Validation Accuracy: 87.06%
+Epoch [18/20] - Average Training Loss: 0.0065 - Training Accuracy: 99.78% - Validation Accuracy: 86.89%
+Epoch [19/20] - Average Training Loss: 0.0066 - Training Accuracy: 99.77% - Validation Accuracy: 87.05%
+Epoch [20/20] - Average Training Loss: 0.0064 - Training Accuracy: 99.78% - Validation Accuracy: 86.61%
+Metrics saved to metrics.csv. Best validation accuracy (89.14%) at epoch 7
